@@ -3,7 +3,6 @@
 int main ()
 {
     int n, factorial = 1;
-    printf("Veillez saisir votre factoriel :\n");
     scanf("%d", &n);
     
     if(n > 0)
