@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*int main ()
+int main ()
 {
     int a, b, swap;
     scanf("%d %d", &a, &b);
@@ -11,4 +11,4 @@
     printf("Après échange : a = %d, b = %d\n", a, b);
 
     return 0;
-}*/
+}
